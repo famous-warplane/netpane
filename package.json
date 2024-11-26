@@ -9,7 +9,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@chakra-ui/icons": "^1.0.5",
+    "@chakra-ui/icons": "^1.1.7",
     "@chakra-ui/react": "^1.4.2",
     "@chakra-ui/theme-tools": "1.1.8",
     "@emotion/react": "11.4.1",
